@@ -6,3 +6,4 @@ $celsius = trim(fgets(STDIN));
 
 say_hi($celsius);
 ?>
+        
